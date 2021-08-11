@@ -21,5 +21,5 @@
 
 <h3 align="left">My stats:</h3>
 
-<img align="right" alt="Global stats" src="https://github-readme-stats.vercel.app/api?username=ZorgBtw&show_icons=true&layout=compact&theme=onedark" />
-<img align="left" alt="Language stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ZorgBtw&theme=onedark" />
+<p><img align="left" alt="Global stats" src="https://github-readme-stats.vercel.app/api?username=ZorgBtw&show_icons=true&layout=compact&theme=onedark" />
+<img align="right" alt="Language stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ZorgBtw&theme=onedark" /></p>
