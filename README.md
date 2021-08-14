@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Java, VueJS, TailWindCSS and Python
 - 💻 All of my projects are available at [Github Repositories](https://github.com/ZorgBtw?tab=repositories)
 
-<h3 align="left">Langagues and Tools:</h3>
+<h3 align="left">Languages and tools:</h3>
 
 <p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
