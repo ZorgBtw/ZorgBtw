@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Zorg</h1>
 <h3 align="center">A little developer for his lost time </h3>
 
-- 🌱 I’m currently learning Python and React Native
+- 🌱 I’m currently learning Python and React
 - 💻 All of my projects are available at [Github Repositories](https://github.com/ZorgBtw?tab=repositories)
 
 <h3 align="left">Languages and tools:</h3>
